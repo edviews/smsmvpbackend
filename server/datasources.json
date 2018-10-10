@@ -1,0 +1,16 @@
+{
+  "dbs": {
+    "name": "dbs",
+    "connector": "memory"
+  },
+  "db": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "url": "",
+    "database": "smsmvp",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
